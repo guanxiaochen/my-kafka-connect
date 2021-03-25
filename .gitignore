@@ -1,0 +1,21 @@
+# Documentation build output
+/docs/_build
+
+.DS_Store
+
+*.iml
+*.ipr
+*.iws
+.ipr
+.idea/
+target/
+apidocs/
+/.classpath
+/.project
+
+derby.log
+
+# Test databases
+__test_database_*
+test.sqlite
+*.db-journal
